@@ -6,4 +6,4 @@
 
 <a href="adv_css/index.html" target="_blank">Advanced CSS</a>
 
-<a href="strategies.html/index.html" target="_blank">Strategies</a>
+<a href="responsive/index.html" target="_blank">Strategies</a>
