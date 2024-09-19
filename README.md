@@ -5,3 +5,5 @@
 <a href="HTML5_Intro_to_CSS_/index.html" target="_blank">HTML5 and Intro to CSS</a>
 
 <a href="adv_css/index.html" target="_blank">Advanced CSS</a>
+
+<a href="strategies.html/index.html" target="_blank">Strategies</a>
