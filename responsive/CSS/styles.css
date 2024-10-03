@@ -3,9 +3,9 @@
 body {
     background-color: #e91ebd;
     font-family: "Source Sans 3", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 200;
   font-style: normal;
+  font-weight: normal;
 }
 
 img {
@@ -70,8 +70,8 @@ video {
         color: plum;
         text-shadow: 1px 1px 1px black;
             font-family: "Kalnia Glaze", serif;
-            font-optical-sizing: auto;
-            font-weight: <weight>;
+            font-weight: 300;
+            font-weight: bold;
             font-style: normal;
             font-variation-settings:
               "wdth" 100;
