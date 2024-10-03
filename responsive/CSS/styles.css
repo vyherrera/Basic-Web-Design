@@ -1,10 +1,20 @@
 /* Global Styles */
 
 body {
-    background-color: #F15A59;
+    background-color: #e91ebd;
+    font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
 
 img {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+}
+
+video {
     display: block;
     width: 100%;
     margin: 0 auto;
@@ -38,7 +48,7 @@ img {
         height: 30px;
         line-height: 30px;
         background-color: white;
-        color: #F15A59;
+        color: #e91ebd;
         font-size: 22px;
         text-decoration: none;
         margin-top: 5px;
@@ -57,8 +67,14 @@ img {
     h2, 
     h3 {
         text-align: center;
-        color: #F15A59;
+        color: plum;
         text-shadow: 1px 1px 1px black;
+            font-family: "Kalnia Glaze", serif;
+            font-optical-sizing: auto;
+            font-weight: <weight>;
+            font-style: normal;
+            font-variation-settings:
+              "wdth" 100;
     }
 
     footer {
@@ -86,6 +102,12 @@ img {
         width: 55%;
         border-radius: 10px;
     }
+
+    center {
+        margin-left: auto;
+        margin-right: auto;
+        display: block
+        }
 }
 
 /* Desktop Styles */
